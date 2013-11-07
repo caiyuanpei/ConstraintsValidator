@@ -1,0 +1,6 @@
+src/com/cathysoft/constraintsvalidator/javacc/*
+*.class
+bin/
+.*
+!.gitignore
+!*.jjt
